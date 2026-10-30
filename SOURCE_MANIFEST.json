@@ -1,0 +1,141 @@
+{
+  "project": "videomix-open",
+  "repository": "https://github.com/liying-main/videomix-open",
+  "files": [
+    {
+      "path": ".env.example",
+      "bytes": 587,
+      "sha256": "f3876a710d388ba4db04a3fa1084a252f56f6f4db93df44cdd44dfcce10b008c"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/bug_report.md",
+      "bytes": 511,
+      "sha256": "5819c5df954131b8939094ef5dbff632cbdba59b1577c39406d2247304a0bb9c"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 234,
+      "sha256": "92072cec63bc92bad9c2340fba838c2ca93b3025682fffba706eab5771694a74"
+    },
+    {
+      "path": "assets/README.md",
+      "bytes": 357,
+      "sha256": "527a14f76571c610947c3e6854b2a6667b79f8e151e4e4aa7d1aa86a32828053"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "bytes": 851,
+      "sha256": "98be2a45bab64cca74d06dc7460c5b3fc231f25042470fd48f98ee41796578fb"
+    },
+    {
+      "path": "examples/local-script.json",
+      "bytes": 407,
+      "sha256": "c99135794cc7f0e98e63baff7561a8bec81dc5c3587b9f8e03fc4e2a2ef82cb9"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1077,
+      "sha256": "7257a933d3a021a9765801f6270ebfa53268906f030304df20da75a4945c1206"
+    },
+    {
+      "path": "README.md",
+      "bytes": 5645,
+      "sha256": "199cc43e46190fb2fb186d85d6f3a306276d9590aa504a5c6c83b3adb738401d"
+    },
+    {
+      "path": "RELEASE_REVIEW.md",
+      "bytes": 675,
+      "sha256": "11a338f85280439fa7a92589bf2da1ddb49fa9cdc099dcda33df1b04cf905023"
+    },
+    {
+      "path": "SECURITY.md",
+      "bytes": 795,
+      "sha256": "9e9a5ffb9d4aef448c5742933bcc19ad3c9249c6f9a4a55f49423311e4d71e37"
+    },
+    {
+      "path": "start.bat",
+      "bytes": 468,
+      "sha256": "6a5d5476de5ac8c46a2d200816e46f185ae69686e8d779ae14a7aaf5bcd28542"
+    },
+    {
+      "path": "tests/test_local.py",
+      "bytes": 1770,
+      "sha256": "27852504d3bff940dc133a93856a1393a8d403a55cb18dd53c8ce1b0bb4c62ad"
+    },
+    {
+      "path": "tests/test_web.py",
+      "bytes": 4146,
+      "sha256": "2ed8725dc30a905ffa6a0f44d82341f4571547c462cd2a3d974e459ab85f1fb2"
+    },
+    {
+      "path": "tests/VALIDATION.md",
+      "bytes": 1047,
+      "sha256": "24a4eaa0d95fe2bb85ccd444645f42637da30779ddbf6b6dc9ec20f93992134a"
+    },
+    {
+      "path": "videomix/__init__.py",
+      "bytes": 98,
+      "sha256": "b36278e86229ca51b615d2742f56f41882c299a3ead61d103c086ce29444e2be"
+    },
+    {
+      "path": "videomix/__main__.py",
+      "bytes": 84,
+      "sha256": "8034c1c450c29dec13eb19cc0fcc4df851e945c091856160135f60653af185e6"
+    },
+    {
+      "path": "videomix/cli.py",
+      "bytes": 4562,
+      "sha256": "6291b71b49d92525474a41ecdaf0b190d538b4df848409a8079a45dda4d56fa0"
+    },
+    {
+      "path": "videomix/config.py",
+      "bytes": 1679,
+      "sha256": "7b1ca927c1dafb6b186de6c00091cff6f20dc6dcb52df264530dc538847ac5e5"
+    },
+    {
+      "path": "videomix/ffmpeg_tools.py",
+      "bytes": 2726,
+      "sha256": "f40d2af640cb3c08612478a6c9d0535f5ad186f013cb4be750bb24987d243a5c"
+    },
+    {
+      "path": "videomix/mix.py",
+      "bytes": 11254,
+      "sha256": "448c2528a275c375149c758834b3458de5c3f09f786ca0a3d89cb231db064426"
+    },
+    {
+      "path": "videomix/script_gen.py",
+      "bytes": 3130,
+      "sha256": "5759bf2e203bb9560e4b9de430f9d1b7a716fc897e6a3bf46b789a61652045d7"
+    },
+    {
+      "path": "videomix/station.py",
+      "bytes": 8052,
+      "sha256": "beb0531d71b95b9eb9737c14b859974b8e0f114649aa7b5fba820e07647ae741"
+    },
+    {
+      "path": "videomix/subtitle.py",
+      "bytes": 3426,
+      "sha256": "7bf903bd0f0b7c7767e62b29faf32905f0bf727cdd9e172a8408c6d22fec3d81"
+    },
+    {
+      "path": "videomix/web.py",
+      "bytes": 10049,
+      "sha256": "1486f50fc1c2528832d50aff1964da68eea6fdba154d850d0ce8bead345af477"
+    },
+    {
+      "path": "web/favicon.png",
+      "bytes": 9569,
+      "sha256": "f6e7a412c5ae596f1e1491dc94e87ab9baceed88159666ddfda65b9b813252ff"
+    },
+    {
+      "path": "web/index.html",
+      "bytes": 8277,
+      "sha256": "204b8fa524e12591cf2c2cf4bee70883d7207aa0eda7fc1b3e2504e32e101820"
+    },
+    {
+      "path": "web/logo.png",
+      "bytes": 93094,
+      "sha256": "a8b8d90ca4b4abcd22416fdc027fcc0e37515cfa8ffe00750d266e7e9b7efaa8"
+    }
+  ]
+}

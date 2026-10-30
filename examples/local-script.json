@@ -1,0 +1,8 @@
+{
+  "title": "周末记录",
+  "hashtags": ["生活记录"],
+  "shots": [
+    {"seconds": 3, "keywords": ["公园", "park"], "voiceover": "给自己留一点散步的时间。", "subtitle": "给自己留一点散步的时间"},
+    {"seconds": 3, "keywords": ["咖啡", "coffee"], "voiceover": "用喜欢的小事，结束轻松的一天。", "subtitle": "用喜欢的小事，结束轻松的一天"}
+  ]
+}

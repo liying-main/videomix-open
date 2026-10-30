@@ -1,0 +1,20 @@
+.env
+output/
+assets/*
+!assets/README.md
+__pycache__/
+*.pyc
+.venv/
+
+
+# Local credentials and generated artifacts
+.env.*
+!.env.example
+settings.json
+settings.json.tmp
+*.log
+.venv/
+bgm/*
+!bgm/README.md
+fonts/
+voices/
